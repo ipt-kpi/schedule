@@ -1,0 +1,5 @@
+[package]
+name = "schedule-web"
+version = "0.0.1"
+authors = ["Belz"]
+edition = "2018"

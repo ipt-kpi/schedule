@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "schedule-bot",
+    "schedule-web"
+]
